@@ -102,7 +102,7 @@ Preprocessing Applied:
 8. How to Run the Project (Locally)
    
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/wbc-vit-classification.git
+git clone https://github.com/yourusername/Rabin-WBC.git
 cd wbc-vit-classification
 
 Step 2: Create a Virtual Environment
